@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 """
 USAGE: `python try.py 123456`
 """
