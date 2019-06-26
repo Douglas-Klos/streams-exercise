@@ -3,3 +3,7 @@
 
 # GENERAL PYTHON FILES
 __pycache__/
+
+.vscode
+venv
+douglas-klos.activity.2.zip
